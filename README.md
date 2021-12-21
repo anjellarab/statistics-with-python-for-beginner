@@ -1,7 +1,7 @@
 # statistics-with-python-for-beginner
 simple to learn
-use : (numpy,pandas,scipy,ggplot)
-import datasets
+use : this library : (numpy,pandas,scipy,ggplot)
 mean - mode - summary 
 use ggplot 
 draw boxplot , histogram 
+import datasets
